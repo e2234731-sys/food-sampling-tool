@@ -1,0 +1,30 @@
+{
+  "name": "食品安全抽检抽样量移动查询工具 V2.0",
+  "short_name": "抽样查询 V2.0",
+  "description": "2026年食品安全监督抽检实施细则抽样量智能核查与移动查询工具（支持iOS/Android全离线运行）",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
