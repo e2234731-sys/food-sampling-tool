@@ -1,5 +1,5 @@
-// FQT 2026 食品安全抽检抽样量移动查询工具 V2.0 - Service Worker
-const CACHE_NAME = 'fqt-sampling-v2.0-cache-v1';
+// FQT 2026 食品安全抽检抽样量移动查询工具 V2.1 - Service Worker
+const CACHE_NAME = 'fqt-sampling-v2.1-cache-v1';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
