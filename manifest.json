@@ -1,6 +1,6 @@
 {
-  "name": "食品安全抽检抽样量移动查询工具 V2.1",
-  "short_name": "抽样查询 V2.1",
+  "name": "食品安全抽检抽样量移动查询工具 V2.2",
+  "short_name": "抽样查询 V2.2",
   "description": "2026年食品安全监督抽检实施细则抽样量智能核查与移动查询工具（支持iOS/Android全离线运行）",
   "start_url": "./index.html",
   "scope": "./",
